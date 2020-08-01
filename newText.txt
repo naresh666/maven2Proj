@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from eclipse
+=======
+this is created by github
+>>>>>>> branch 'master' of https://github.com/naresh666/maven2Proj.git
